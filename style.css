@@ -1,0 +1,31 @@
+#Tabela-scroll {
+    overflow: scroll;
+    height: 60vh;
+}
+
+tr > th {
+    background-color: green;
+    text-align: center;
+    padding: 2px 2px;
+    color: white;
+}
+
+tr > td {
+    text-align: center;
+    color: black;
+}
+
+button[id^="user-"]:hover {
+    background-color: #a26bac !important;
+    color: #fff !important;
+    font-weight: 500;
+    border: 1px solid black !important;
+}
+
+button[class^="NewCreated"]:hover {
+    background-color: #a29206 !important;
+}
+
+button.disabled {
+    cursor: not-allowed;
+}
