@@ -76,7 +76,7 @@
 
     <form class="w3-container" action="akcje.php?adduser" method="POST">
 
-        <label>Imie</label>
+        <label>Imiee</label>
         <input id="imie" name="imie" class="w3-input" type="text">
 
         <label>Nazwisko</label>
