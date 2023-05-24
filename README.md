@@ -1,5 +1,1 @@
-przeczytaj to
-
-To jest bardzo ważne na dziś.
-
-sprawdzenie czy poszlo?
+To jest prosta aplikacja na zaliczenie przedmiotu na ocenę celującą.
