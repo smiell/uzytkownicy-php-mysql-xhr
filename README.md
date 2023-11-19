@@ -1,1 +1,1 @@
-To jest prosta aplikacja na zaliczenie przedmiotu na ocenę celującą.
+Prosta aplikacja CRUD PHP + MySQL na zaliczenie przedmiotu.
